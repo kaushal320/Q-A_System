@@ -1,0 +1,6 @@
+export const db="Q&A_System"
+export const question_collection="questions"
+export const answer_collection="answers"
+export const comment_collection="comments"
+export const vote_collection="votes"
+export const questionAttachment_bucket="question_attachments"
